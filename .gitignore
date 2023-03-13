@@ -1,0 +1,9 @@
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+vendor/
+public/images/member/images35_202110250407.jpg
+public/public/images/member/images35_202110250358.jpg
